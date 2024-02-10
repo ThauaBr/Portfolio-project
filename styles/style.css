@@ -23,7 +23,8 @@ body {
 }
 
 .cabecalho {
-    padding: 5% 0% 0% 15%;
+    margin-top: 5%;
+    margin-left: 15%;
 }
 
 .cabecalho__menu {
@@ -46,9 +47,10 @@ body {
 }
 
 .apresentacao {
-    padding: 8% 15%;
+    margin: 8% 15%;
+    /* padding: 8% 15%; */
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
     gap: 200px;
 }
